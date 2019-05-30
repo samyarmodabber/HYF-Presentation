@@ -119,8 +119,13 @@ a {
 }
 
 #hyf{
-    max-width: 150px;
+    max-width: 150px !important ;
 }
+
+#flags{
+    margin: 10px auto;
+}
+
 a:hover,
 a:focus {
     background: rgba(255,255,255,1);
