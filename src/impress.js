@@ -1,5 +1,14 @@
-/*! Licensed under MIT License - http://github.com/impress/impress.js */
-/**
+/*
+ * It's presentation about localization part of the final project of Hack Your Future (Copenhagen).
+ *
+ * Samyar Modabber
+ *  
+ * 
+ * 
+ * 
+ * 
+ * 
+ * Licensed under MIT License - http://github.com/impress/impress.js 
  * impress.js
  *
  * impress.js is a presentation tool based on the power of CSS3 transforms and transitions
